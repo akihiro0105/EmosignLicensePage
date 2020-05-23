@@ -1,3 +1,5 @@
+[Emosignについてはこちら](https://akihiro0105.github.io/EmosignLandingPage/)
+
 ## Emosignライセンス概要
 Emosignではライセンスによって利用できる範囲や機能を制限しています。
 
